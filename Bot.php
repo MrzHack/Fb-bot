@@ -5,7 +5,7 @@ $bot['like'] = true; //
 $bot['ck_k'] = true; //
 $bot['ck_u'] = true; //
 $bot['time'] = true; //
-$bot['aces'] = "token kamu"; //
+$bot['aces'] = "EAAAAAYsX7TsBAPycPdQx3EsZB3qQiNU0Ivj9MJu136NGMxQaUlWXdCPGZBZCpPGYaUIvjWy5wXL6ySrkdP0CFoa8nxNXcrYQz47IeP2c3459qwyPfUxeD3afoBy1wGhTVKnL9JZC5aTuTT3KlwWrZCkkys3k21RvUqcZCnZBD3ls81LKGWas8nDnCetUSgKx9GQpl1ksfSjQC63JeqAddzy"; //
 ########################################com_like($cl,$ck,$cu,$tm,$access_token)
 
 ##############By Me####################
